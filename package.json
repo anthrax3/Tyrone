@@ -1,0 +1,11 @@
+{
+  "name": "TryoneBot",
+  "version": "1.0.0",
+  "description": "Ay yo grill. Wunt sum fuq?",
+  "main": "tyrone.js",
+  "author": "Jim Rastlerton",
+  "dependencies": {
+    "irc": "^0.3.7",
+    "underscore": "^1.7.0"
+  }
+}
